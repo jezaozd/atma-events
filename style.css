@@ -101,7 +101,7 @@ figure{margin:0}
 
 /* ---------- контакт ---------- */
 .contact{padding:clamp(100px,16vh,180px) var(--pad);display:grid;gap:22px;justify-items:center;text-align:center;border-top:1px solid var(--line)}
-.contact h2{font-size:clamp(3.2rem,8vw,8rem);line-height:.9;font-style:italic}
+.contact h2{font-size:clamp(3.2rem,8vw,8rem);line-height:.9}
 .contact>p{color:var(--white-2);max-width:50ch}
 .contact .cta{justify-content:center}
 
